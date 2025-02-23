@@ -1,10 +1,10 @@
-🚦 TrafficWise AI Planner
+# **🚦 TrafficWise AI Planner**
 
-🌍 Overview
+## *🌍 Overview*
 
 TrafficWise AI Planner is an advanced AI-powered tool designed to assist with traffic route optimization, urban congestion solutions, and infrastructure planning. The application leverages Streamlit, Folium, and AI models to provide real-time traffic insights and route recommendations.
 
-✨ Features
+## *✨ Features*
 
 📍 Location-Based Traffic Analysis – Get real-time traffic data for any location.
 
@@ -20,7 +20,7 @@ TrafficWise AI Planner is an advanced AI-powered tool designed to assist with tr
 
 🎚 Adjustable AI Response Variation – Customize AI responses based on creativity and precision needs.
 
-🛠 Tech Stack
+## *🛠 Tech Stack*
 
 Frontend: Streamlit
 
@@ -30,7 +30,7 @@ APIs: HERE API (Traffic & Geocoding), Groq AI (Chat Assistant)
 
 Backend: Python
 
-🔧 Installation & Setup
+## *🔧 Installation & Setup*
 
 Clone the repository:
 
@@ -45,7 +45,7 @@ Run the application:
 
 streamlit run app.py
 
-🌟 Usage
+## *🌟 Usage*
 
 Enter a city or address in the Search Location field.
 
@@ -59,7 +59,7 @@ Check your recently searched locations for quick access.
 
 Follow traffic guidelines provided in the sidebar for a smoother travel experience.
 
-🎯 Future Enhancements
+## *🎯 Future Enhancements*
 
 🚘 Real-Time Navigation Assistance
 
